@@ -1,0 +1,2 @@
+class EmployeePhone < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class ProblenNote < ApplicationRecord
+end
